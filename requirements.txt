@@ -1,0 +1,7 @@
+Flask
+Flask-Login
+tensorflow
+numpy
+Pillow
+opencv-python-headless
+Werkzeug
